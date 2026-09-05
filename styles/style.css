@@ -1,0 +1,45 @@
+.press-start-2p-regular {
+  font-family: "Press Start 2P", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+.russo-one-regular {
+  font-family: "Russo One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+html {
+    background-color: #394c8b;
+    font-size: 20px;
+    font-family: "Russo One", sans-serif;
+    color: #101b21;
+}
+
+ul {
+    font-family: "Press Start 2P", sans-serif;
+    font-size: 14px;
+    letter-spacing: 0.2px;
+    line-height: 20px;
+}
+.centered {
+    text-align: center;
+}
+body {
+    padding: 10px 20px 40px 20px;
+    border: 4px solid #101b21;
+    margin: 0px 200px;
+    background-color: #e88648;
+}
+button {
+    background-color: #e8b848;
+    font-size: 20px;
+    font-family: "Russo One", sans-serif;
+    color: #101b21;
+}
+img {
+    padding: 5px 5px;
+    border: 4px solid #101b21;
+    display: block;
+    margin: 0 auto;
+}
